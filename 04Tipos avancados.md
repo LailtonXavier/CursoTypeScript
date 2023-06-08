@@ -34,3 +34,9 @@
 
   - resumindo: é uma func se comportar de maneira diferente
     baseado nos tipo q sera enviado.
+
+# (302) Encadeamento opcional e Operador de coalescencia nula
+  - ele nos da o poder de perguntar se data var existe depois do obj
+  - seria o safe-operation
+    - calescencia nula ele checa que o valor esquerdo do operador 
+      - serua um 'nao valor (null e undefined'
